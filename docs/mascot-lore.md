@@ -1,0 +1,1 @@
+---\nid: mascot-lore\ntitle: Mascot Lore\n---\n\nLore of mascots.

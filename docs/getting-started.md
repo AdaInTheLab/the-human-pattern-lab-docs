@@ -1,0 +1,1 @@
+---\nid: getting-started\ntitle: Getting Started\n---\n\nWelcome to the Lab docs.

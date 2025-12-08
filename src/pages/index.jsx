@@ -1,0 +1,1 @@
+import React from 'react'; export default function Home(){return <div>Human Pattern Lab Docs</div>}
