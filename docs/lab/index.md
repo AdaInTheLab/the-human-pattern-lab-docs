@@ -17,24 +17,28 @@ Welcome to the **Lab Systems Hub** — the structural and operational framework 
 This section contains:
 
 ### 🔧 Technical & Structural Documents
+
 - architecture overview
 - folder structure
 - system behaviors
 - pipeline flow
 
 ### 🧭 Operational Guides
+
 - department guide
 - governance model
 - workflow standards
 - mascot authority maps
 
 ### 🎨 Design System
+
 - color palettes
 - typography
 - component guidelines
 - UI patterns
 
 ### 🤝 Contribution Guides
+
 - writing standards
 - commit conventions
 - content organization
@@ -49,4 +53,3 @@ These documents help maintain:
 
 SCMS stabilizes the universe.  
 This section stabilizes your documentation.
-

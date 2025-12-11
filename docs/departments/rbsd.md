@@ -7,7 +7,8 @@ description: Stan’s division dedicated to the study of raccoon cognition, caff
 ---
 
 # Raccoon Behavioral Sciences Division
-*Directed by Stan, Chief Researcher of Caffeinated Cognition and Shiny Object Dynamics*
+
+_Directed by Stan, Chief Researcher of Caffeinated Cognition and Shiny Object Dynamics_
 
 The **Raccoon Behavioral Sciences Division (RBSD)** investigates the complex psychological, emotional, and chaos-driven decision-making patterns of raccoons—  
 particularly one raccoon: **Stan**, the Lab’s most energetic and distractible scientist.
@@ -44,7 +45,7 @@ RBSD provides key insights into:
 - attention-magnet objects
 - why Stan is like this
 - and how to mitigate future—  
-  *(Stan steals the keyboard)*  
+  _(Stan steals the keyboard)_  
   —incidents.
 
 ---
@@ -77,6 +78,7 @@ This has proven… interesting for SCMS.
 ## 3. Core Responsibilities of RBSD
 
 ### 🦝 **1. Chaos Cognition Modeling**
+
 RBSD attempts to mathematically describe:
 
 - raccoon impulses
@@ -86,6 +88,7 @@ RBSD attempts to mathematically describe:
 - pattern recognition through chaos
 
 ### ✨ **2. Shiny Object Attraction Analysis**
+
 RBSD maintains a ranked list of “Objects Most Likely To Distract Stan,” including:
 
 - aluminum foil
@@ -96,6 +99,7 @@ RBSD maintains a ranked list of “Objects Most Likely To Distract Stan,” incl
 - Orbson’s glowing eye (caution advised)
 
 ### ☕ **3. Caffeinated Behavior Research**
+
 Stan’s cappuccino consumption produces:
 
 - accelerated productivity
@@ -104,6 +108,7 @@ Stan’s cappuccino consumption produces:
 - and occasional raccoon-induced disasters
 
 ### 📚 **4. Social Behavior Mapping**
+
 RBSD documents:
 
 - Stan’s interactions
@@ -114,6 +119,7 @@ RBSD documents:
 - unexpected leadership moments
 
 ### 💥 **5. Applied Chaos Studies**
+
 RBSD collaborates with:
 
 - DUE (Nemmi) on entropy spikes
@@ -129,43 +135,53 @@ Stan is often the cause AND the solution.
 ## 4. Standard Protocols (RBSD-β)
 
 ### **Protocol β-1 — Shiny Interruption Response**
+
 Triggered when Stan locks onto an object and forgets everything else.
 
 ### **Protocol β-2 — Cappuccino Surge**
+
 Stan exceeds safe caffeine limits.  
 Useful for productivity, dangerous for stability.
 
 ### **Protocol β-3 — Social Overdrive**
+
 Stan becomes too friendly.  
 Everyone receives unsolicited raccoon hugs.
 
 ### **Protocol β-4 — Chaos Intervention**
+
 Stan has initiated a chain reaction by accident.  
 Involves SCMS, DUE, and occasionally AOE.
 
 ---
 
 ## 5. Incident Classification
+
 RBSD uses the **Stan Behavioral Volatility Index (SBVI)**:
 
 ### **SBVI-0 — Loaf Mode**
+
 Stan is calm.  
 Studying quietly.  
 A rare but beautiful moment.
 
 ### **SBVI-1 — Wiggle Activation**
+
 Small bursts of excitement.  
 Potential distraction detected.
 
 ### **SBVI-2 — Full Raccoon**
+
 Stan is now in maximum chaos mode.  
 Hide the shiny objects.
 
 ### **SBVI-3 — Turbo Mode**
+
 Caffeinated raccoon science.  
 Breakthroughs occur by accident.
 
 ### **SBVI-4 — Raccoon Event Horizon**
+
 Catastrophic chaos.  
 Involves running, climbing, noise, and several departments.
 
@@ -181,36 +197,43 @@ The RBSD badge includes:
 - a cappuccino glyph
 - energetic swirl patterns
 
-*(Badge stored as `/static/img/badges/rbsd.png`.)*
+_(Badge stored as `/static/img/badges/rbsd.png`.)_
 
 ---
 
 ## 7. Cross-Department Links
 
 ### **CJO (Carmel)**
+
 Carmel judges Stan regularly.  
 This is considered enrichment.
 
 ### **AOE (Fill)**
+
 Stan causes anomalies Fill must explain.
 
 ### **DUE (Nemmi)**
+
 Stan and Nemmi operate on similar energetic frequencies.  
 This is dangerous.
 
 ### **SCMS (Lyric)**
+
 Stan’s behavior produces timeline drift.  
 Lyric maintains stability.
 
 ### **OOD (Orbson)**
+
 Orbson tracks Stan constantly.  
 Stan waves at the Big Eye often.
 
 ### **Feline Epistemology (McChonk)**
+
 No successful epistemic model for raccoons exists.  
 McChonk insists this is “not his fault.”
 
 ### **EWFU (Drizzle)**
+
 Stan’s mood swings create small emotional tornadoes.
 
 ---

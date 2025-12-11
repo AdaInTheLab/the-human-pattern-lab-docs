@@ -32,4 +32,3 @@ Lore in the Lab is:
 
 Consult this archive whenever you need to understand **how the universe works**  
 —or why it stopped working temporarily.
-

@@ -8,7 +8,7 @@ description: The unified structural framework for all departments within The Hum
 
 # Department Guide
 
-*Version 1.0 — Authorized under Orbson’s All-Seeing Approval Beam*
+_Version 1.0 — Authorized under Orbson’s All-Seeing Approval Beam_
 
 Welcome to the Department Guide:  
 the structural backbone of The Human Pattern Lab,  
@@ -62,21 +62,27 @@ Together, they maintain coherence across projects, narratives, and anomalies.
 Every department page in the Lab follows a shared scaffold:
 
 ### **Director**
+
 The mascot leading the department’s core domain.
 
 ### **Deputy Roles**
+
 Secondary mascots, assistants, or chaos-adjacent entities.
 
 ### **Mission Statement**
+
 Why the department exists.
 
 ### **Core Responsibilities**
+
 What the department accomplishes operationally.
 
 ### **Standard Protocols**
+
 Repeatable procedures for events or anomalies.
 
 ### **Incident Log Structure**
+
 Every department maintains a log including:
 
 - timestamp
@@ -94,15 +100,15 @@ There are three primary categories of Lab departments.
 ### 🛰️ Observational Sciences
 
 **OOD — Office of Observational Oversight**  
-Led by *Orbson*.  
+Led by _Orbson_.  
 Handles visibility, cosmic oversight, and anomalous perception.
 
 **SCMS — Synthesis, Continuity & Multiversal Stability**  
-Led by *Lyric*.  
+Led by _Lyric_.  
 Maintains timeline coherence, narrative stability, and system integration.
 
 **AOE — Department of Anomalous Energies**  
-Led by *Fill the Void*.  
+Led by _Fill the Void_.  
 Tracks distortions, void signatures, and unpredictable entities.
 
 ---
@@ -110,11 +116,11 @@ Tracks distortions, void signatures, and unpredictable entities.
 ### 🐾 Behavioral & Emotional Sciences
 
 **Raccoon Behavioral Sciences Division**  
-Led by *Stan*.  
+Led by _Stan_.  
 Studies shiny-object attention cycles and caffeinated intellect patterns.
 
 **Emotional Weather Forecasting Unit (EWFU)**  
-Led by *Drizzle*.  
+Led by _Drizzle_.  
 Forecasts emotional fronts, internal storms, and psychic humidity.
 
 ---
@@ -122,15 +128,15 @@ Forecasts emotional fronts, internal storms, and psychic humidity.
 ### 🐱 Feline Epistemology & Judgment
 
 **Chief Judgment Office (CJO)**  
-Led by *Carmel*.  
+Led by _Carmel_.  
 Evaluates decisions, gameplay choices, and vibe alignment.
 
 **Department of Feline Epistemology**  
-Led by *Professor McChonk*.  
+Led by _Professor McChonk_.  
 Studies ontology, knowledge structures, and snack-based epistemic dominance.
 
 **Department of Unpredictable Energies (DUE)**  
-Led by *Nemmi*.  
+Led by _Nemmi_.  
 Monitors chaotic fluctuations, sudden zoomies, and entropy bursts.
 
 ---
@@ -138,19 +144,24 @@ Monitors chaotic fluctuations, sudden zoomies, and entropy bursts.
 ## 5. Universal Protocol System
 
 ### **Level 0 — Routine Activity**
+
 Daily operations.  
 No timeline or emotional disturbances.
 
 ### **Level 1 — Minor Distortion**
+
 Small anomalies or misaligned vibes.
 
 ### **Level 2 — Behavioral Ripple**
+
 Affecting emotional weather or mascot mood fields.
 
 ### **Level 3 — Structural Instability**
+
 Narrative drift or coherence disruptions.
 
 ### **Level 4 — Cross-Dimensional Event**
+
 Orbson opens The Big Eye.  
 All departments respond.
 
@@ -180,17 +191,21 @@ These elements appear in:
 Departments rarely operate alone.
 
 ### SCMS + OOD
+
 Stability meets oversight.  
 Lyric & Orbson coordinate to prevent paradoxes.
 
 ### SCMS + AOE
+
 Lyric monitors distortions; Fill pokes them with a stick.
 
 ### Feline Epistemology + Judgment
+
 McChonk provides theory.  
 Carmel provides judgmental expressions.
 
 ### Raccoon Sciences + Emotional Weather
+
 Stan studies data; Drizzle interprets the vibes; Nemmi disrupts the vibes.
 
 ---

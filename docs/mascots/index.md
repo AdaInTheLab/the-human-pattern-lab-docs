@@ -33,4 +33,3 @@ Mascots aren’t “characters.”
 They’re **operational forces** woven into the Lab’s design.
 
 Explore their pages to understand the full neon-cosmic ecosystem behind your brand.
-

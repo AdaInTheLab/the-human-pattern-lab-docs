@@ -1,4 +1,5 @@
 # 🚀 Getting Started
+
 **How to run The Human Pattern Lab locally**
 
 Welcome to the Lab! Whether you're exploring patterns, contributing features, or just poking around to see why there are raccoons in lab coats, this guide will help you spin up the development environment on your own machine.
@@ -12,6 +13,7 @@ This is a lightweight React + Vite project using Tailwind CSS v4 and TypeScript,
 Before starting, make sure your machine has:
 
 ### ✔ Node.js
+
 Recommended version: **20.19+**
 
 Check your version:
@@ -31,6 +33,7 @@ If you don’t have nvm installed:
 https://github.com/nvm-sh/nvm
 
 ### ✔ npm
+
 Comes with Node. Check with:
 
 ```bash
@@ -155,23 +158,26 @@ Every major file includes:
 Additional docs:
 
 - `docs/code-status.md`
-- `docs/lab-units.md` *(coming soon)*
+- `docs/lab-units.md` _(coming soon)_
 
 ---
 
 ## 💡 Troubleshooting
 
 ### Tailwind styles not loading
+
 Ensure this import exists at the top of `src/main.tsx`:
 
 ```ts
-import "@/index.css"
+import '@/index.css';
 ```
 
 ### Node version mismatch
+
 Use Node **20.19 or later**.
 
 ### Routes misbehaving
+
 Check all paths in:
 
 ```

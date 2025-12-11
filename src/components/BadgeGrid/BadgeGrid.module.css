@@ -1,93 +1,92 @@
 /* src/components/BadgeGrid/BadgeGrid.module.css */
 
 .badgeGrid {
-    display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(260px, 1fr));
-    gap: 1rem;
-    align-items: stretch;
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(260px, 1fr));
+  gap: 1rem;
+  align-items: stretch;
 }
 
 .badgeGrid {
-    font-size: 0; /* remove whitespace nodes */
-    grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+  font-size: 0; /* remove whitespace nodes */
+  grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
 }
 
 .badgeGrid * {
-    font-size: initial;
+  font-size: initial;
 }
 
-
 .card {
-    background: var(--ifm-background-surface-color);
-    border-radius: 0.9rem;
-    padding: 1rem 1rem 1.1rem;
-    text-align: center;
-    box-shadow: 0 10px 25px rgba(0, 0, 0, 0.28);
-    border: 1px solid rgba(120, 144, 255, 0.16);
-    transition:
-            transform 150ms ease-out,
-            box-shadow 150ms ease-out,
-            border-color 150ms ease-out,
-            background-color 150ms ease-out;
+  background: var(--ifm-background-surface-color);
+  border-radius: 0.9rem;
+  padding: 1rem 1rem 1.1rem;
+  text-align: center;
+  box-shadow: 0 10px 25px rgba(0, 0, 0, 0.28);
+  border: 1px solid rgba(120, 144, 255, 0.16);
+  transition:
+    transform 150ms ease-out,
+    box-shadow 150ms ease-out,
+    border-color 150ms ease-out,
+    background-color 150ms ease-out;
 }
 
 .card:hover {
-    transform: translateY(-2px);
-    box-shadow: 0 14px 30px rgba(0, 0, 0, 0.35);
-    border-color: rgba(144, 176, 255, 0.5);
-    background-color: rgba(10, 12, 28, 0.9);
+  transform: translateY(-2px);
+  box-shadow: 0 14px 30px rgba(0, 0, 0, 0.35);
+  border-color: rgba(144, 176, 255, 0.5);
+  background-color: rgba(10, 12, 28, 0.9);
 }
 
 .imageWrapper {
-    margin: 0 auto 0.75rem;
-    display: flex;
-    align-items: center;
-    justify-content: center;
+  margin: 0 auto 0.75rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
 }
 
 .image {
-    width: 100%;
-    height: auto;
-    object-fit: contain;
-    display: block;
+  width: 100%;
+  height: auto;
+  object-fit: contain;
+  display: block;
 }
 
 /* Text */
 
 .caption {
-    display: flex;
-    flex-direction: column;
-    gap: 0.1rem;
+  display: flex;
+  flex-direction: column;
+  gap: 0.1rem;
 }
 
 .acronym {
-    font-size: 0.75rem;
-    font-weight: 600;
-    letter-spacing: 0.12em;
-    text-transform: uppercase;
-    opacity: 0.75;
+  font-size: 0.75rem;
+  font-weight: 600;
+  letter-spacing: 0.12em;
+  text-transform: uppercase;
+  opacity: 0.75;
 }
 
 .title {
-    font-size: 0.92rem;
-    font-weight: 600;
+  font-size: 0.92rem;
+  font-weight: 600;
 }
 
 .description {
-    font-size: 0.78rem;
-    opacity: 0.78;
+  font-size: 0.78rem;
+  opacity: 0.78;
 }
 
 /* Small screens tweak */
 
 @media (max-width: 600px) {
-    .grid {
-        grid-template-columns: repeat(auto-fit, minmax(150px, 1fr));
-        gap: 1.25rem;
-    }
+  .grid {
+    grid-template-columns: repeat(auto-fit, minmax(150px, 1fr));
+    gap: 1.25rem;
+  }
 }
 .card {
-    word-wrap: normal;
-    word-break: keep-all;
-    hyphens: auto;
+  word-wrap: normal;
+  word-break: keep-all;
+  hyphens: auto;
 }

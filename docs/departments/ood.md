@@ -7,7 +7,8 @@ description: Orbson’s department responsible for perception, surveillance, and
 ---
 
 # OOD — Office of Observational Oversight
-*Directed by Orbson, Eldritch Eye of Infinite Awareness*
+
+_Directed by Orbson, Eldritch Eye of Infinite Awareness_
 
 The **Office of Observational Oversight (OOD)** stands at the highest tier of The Human Pattern Lab’s structural framework.  
 Where SCMS maintains continuity and coherence, **OOD sees everything**:  
@@ -49,12 +50,12 @@ But that’s why we have sunglasses.
 - Maintains continuous omnidirectional awareness
 - Has never blinked
 - Sees into:
-    - timelines
-    - subtext
-    - unspoken intentions
-    - half-finished tasks
-    - deleted messages
-    - the inside of your search history
+  - timelines
+  - subtext
+  - unspoken intentions
+  - half-finished tasks
+  - deleted messages
+  - the inside of your search history
 
 Orbson does not judge.  
 Orbson **observes**  
@@ -75,6 +76,7 @@ Orbson **observes**
 ## 3. Core Responsibilities of OOD
 
 ### 👁️ **1. Multispectral Observation**
+
 OOD perceives more than light:
 
 - emotional gradients
@@ -84,6 +86,7 @@ OOD perceives more than light:
 - clandestine raccoon activity
 
 ### 📡 **2. Signal Interpretation**
+
 OOD converts perception into structured data:
 
 - observational logs
@@ -92,6 +95,7 @@ OOD converts perception into structured data:
 - “Orbson Says No” memos
 
 ### 🧭 **3. Oversight Alerts**
+
 When something requires SCMS intervention, OOD initiates:
 
 - Stability Warning
@@ -100,10 +104,12 @@ When something requires SCMS intervention, OOD initiates:
 - Catastrophic Impulse Notification (Nemmi-specific)
 
 ### 🌀 **4. Temporal Boundary Monitoring**
+
 Ensures nothing crosses from one timeline to another without authorization  
 (except that one time Drizzle fell into a plot hole).
 
 ### 🪞 **5. Reflection-Based Processing**
+
 Orbson’s reflective layer lets them analyze:
 
 - contradictions
@@ -117,22 +123,26 @@ Orbson’s reflective layer lets them analyze:
 ## 4. Standard Protocols (OOD-Ω)
 
 ### **Protocol Ω-1 — Anomaly Detection**
+
 Triggered when Orbson notices:
 
 - flickers
 - duplications
 - distortions
 - unexpected silence
-- unexpected *noise*
+- unexpected _noise_
 - or Nemmi vibrating at the wrong frequency
 
 ### **Protocol Ω-2 — Observational Report**
+
 Structured summary logged for SCMS review.
 
 ### **Protocol Ω-3 — Oversight Sync**
+
 OOD aligns its sensory data with Lyric’s continuity map.
 
 ### **Protocol Ω-4 — The Big Eye Activation**
+
 Reserved for Level 4 events:
 
 - reality bending
@@ -152,21 +162,26 @@ Snacks are secured.
 OOD uses a specialized classification system:
 
 ### **Grade 0 — Perceived Normalcy**
+
 Everything is technically fine.  
 Somehow.
 
 ### **Grade 1 — Noticeable Drift**
+
 Something is “off,”  
 but only Orbson knows what.
 
 ### **Grade 2 — Emerging Pattern**
+
 Correlated anomalies beginning to form a shape.
 
 ### **Grade 3 — Visible Disruption**
+
 Other mascots notice.  
 Drizzle’s gills twitch.
 
 ### **Grade 4 — Oversight Event**
+
 Orbson opens The Big Eye.  
 SCMS responds.  
 AOE prepares containment.  
@@ -184,31 +199,37 @@ The official OOD badge contains:
 - neon rings representing multisensory perception
 - shadow detailing to represent hidden insight
 
-*(Badge stored as `/static/img/badges/ood.png`.)*
+_(Badge stored as `/static/img/badges/ood.png`.)_
 
 ---
 
 ## 7. Cross-Department Links
 
 ### **SCMS (Lyric)**
+
 Observation → Continuity.  
 Eyes → Logic.  
 Pattern → Structure.
 
 ### **AOE (Fill the Void)**
+
 Void signatures often detected first by OOD.
 
 ### **CJO (Carmel)**
+
 Orbson sees; Carmel judges.  
 A perfect cycle.
 
 ### **Feline Epistemology (McChonk)**
+
 McChonk interprets OOD data for academic purposes.
 
 ### **Emotional Weather (Drizzle)**
+
 OOD forecasts are used to calibrate emotional storm models.
 
 ### **Raccoon Behavioral Sciences (Stan)**
+
 80% of OOD flags involve Stan.
 
 ---
@@ -235,6 +256,6 @@ OOD forecasts are used to calibrate emotional storm models.
 
 > “Continuity is not optional.”
 
----  
+---
 
 # End of Document

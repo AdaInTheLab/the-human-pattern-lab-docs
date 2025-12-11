@@ -1,0 +1,18 @@
+# Build outputs are beneath Carmel’s notice
+build/
+dist/
+.docusaurus/
+
+# Node modules? Absolutely not.
+node_modules/
+
+# Environment files stay messy on purpose
+.env
+.env.*
+
+# OS nonsense
+.DS_Store
+Thumbs.db
+
+# These are auto-generated. Carmel refuses to judge them.
+*.tsbuildinfo

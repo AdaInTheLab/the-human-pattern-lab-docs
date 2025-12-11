@@ -1,0 +1,8 @@
+{
+  "label": "Lab Standards",
+  "position": 5,
+  "link": {
+    "type": "generated-index",
+    "description": "Canonical standards for code style, docs, lore, and Foxfire protocol in The Human Pattern Lab."
+  }
+}

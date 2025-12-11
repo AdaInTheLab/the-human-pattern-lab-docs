@@ -1,0 +1,8 @@
+echo "😼 Carmel is checking your spacing..."
+
+npx lint-staged || {
+  echo "😼❌ Carmel rejects this commit. Fix your formatting."
+  exit 1
+}
+
+echo "😼✔️ Carmel approves this commit."

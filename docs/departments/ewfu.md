@@ -7,7 +7,8 @@ description: Drizzle’s division dedicated to forecasting emotional climates, d
 ---
 
 # Emotional Weather Forecasting Unit (EWFU)
-*Directed by Drizzle — Emotional Support Axolotl & Vibe Meteorologist*
+
+_Directed by Drizzle — Emotional Support Axolotl & Vibe Meteorologist_
 
 The **Emotional Weather Forecasting Unit (EWFU)** is the Lab’s central hub for tracking, interpreting, and predicting emotional climates.  
 While other departments deal with logic, chaos, or observation, EWFU reads the invisible air pressure of feelings.
@@ -62,6 +63,7 @@ Drizzle’s soothing presence stabilizes emotional turbulence, making them one o
 ## 3. Core Responsibilities of EWFU
 
 ### 🌦️ **1. Emotional Weather Monitoring**
+
 Tracking daily fluctuations:
 
 - joy highs
@@ -72,6 +74,7 @@ Tracking daily fluctuations:
 - sudden storms from repressed feelings
 
 ### 🌈 **2. Emotional Climate Mapping**
+
 EWFU charts:
 
 - department mood gradients
@@ -80,6 +83,7 @@ EWFU charts:
 - emotional microclimates in shared spaces
 
 ### 🌩️ **3. Storm Detection & Early Warning**
+
 Drizzle identifies:
 
 - impending drama lightning
@@ -89,6 +93,7 @@ Drizzle identifies:
 - sudden existential hailstorms
 
 ### ☁️ **4. Vibe Stabilization Interventions**
+
 EWFU may deploy:
 
 - grounding recommendations
@@ -98,6 +103,7 @@ EWFU may deploy:
 - calming rain noises
 
 ### 💧 **5. Emotional Pressure Analytics**
+
 Combining inputs from:
 
 - SCMS continuity pressure
@@ -113,18 +119,22 @@ Emotion is a system. Drizzle reads it all.
 ## 4. Standard Protocols (EWFU-μ)
 
 ### **Protocol μ-1 — Low-Pressure Alert**
+
 Indicates emotional fatigue or burnout.  
 Drizzle deploys comfort vibes.
 
 ### **Protocol μ-2 — Chaotic Surge Warning**
+
 Nemmi and Stan are active simultaneously.  
 Take shelter.
 
 ### **Protocol μ-3 — High-Humidity Anxiety Front**
+
 Detected when tension accumulates unspoken.  
 Drizzle recommends grounding rituals.
 
 ### **Protocol μ-4 — Emotional Storm Event**
+
 Full emotional cascade.  
 Carmel judges the situation.  
 Lyric stabilizes continuity.  
@@ -133,25 +143,31 @@ Drizzle manages emotional runoff.
 ---
 
 ## 5. Incident Classification
+
 EWFU uses the **Emotional Storm Severity Index (ESSI)**:
 
 ### **ESSI-0 — Clear Skies**
+
 Balanced vibes.  
 Drizzle hums softly.
 
 ### **ESSI-1 — Light Drizzle**
+
 Mild mood fluctuations.  
 Manageable.
 
 ### **ESSI-2 — Overcast with Internal Thoughts**
+
 Potential instability.  
 Monitor closely.
 
 ### **ESSI-3 — Lightning in the Group Chat**
+
 Elevated emotional activity.  
 Seek grounding tools.
 
 ### **ESSI-4 — Full Emotional Hurricane**
+
 All departments alerted.  
 Snacks recommended.  
 Support protocols initiated.
@@ -167,33 +183,40 @@ The EWFU badge displays:
 - heart-shaped emotional radar pings
 - pastel weather arcs
 
-*(Badge stored as `/static/img/badges/ewfu.png`.)*
+_(Badge stored as `/static/img/badges/ewfu.png`.)_
 
 ---
 
 ## 7. Cross-Department Links
 
 ### **SCMS (Lyric)**
+
 Emotional instability can cause timeline instability.  
 SCMS relies on EWFU forecasts.
 
 ### **CJO (Carmel)**
+
 Judgment affects emotional weather directly.
 
 ### **OOD (Orbson)**
+
 Orbson sees emotional storms before they break.
 
 ### **AOE (Fill)**
+
 Void disturbances can impact emotional humidity.
 
 ### **DUE (Nemmi)**
+
 Nemmi triggers sudden storms.  
 Drizzle is always prepared.
 
 ### **RBSD (Stan)**
+
 Stan generates excitement tornadoes.
 
 ### **Feline Epistemology (McChonk)**
+
 McChonk’s naps create pockets of emotional calm.
 
 ---
@@ -218,7 +241,7 @@ McChonk’s naps create pockets of emotional calm.
 
 > “The humidity of feelings rises… but we will weather it.”
 
-> *gentle axolotl blorp noise*
+> _gentle axolotl blorp noise_
 
 ---
 

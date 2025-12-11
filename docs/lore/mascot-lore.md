@@ -1,5 +1,6 @@
 ---
 id: mascot-lore
+slug: /lore/mascot-lore
 title: 🐾 Mascot Lore
 ---
 
@@ -33,7 +34,7 @@ inside the codebase.
 **Core vibe:** judgmental, cozy, correct.
 
 Carmel is a cream-colored cat with light emerald eyes and a permanent  
-“are you *serious* right now?” expression.
+“are you _serious_ right now?” expression.
 
 She is:
 
@@ -183,5 +184,5 @@ When in doubt:
 - If it changes the story of the Lab, treat it as **lore-critical**.
 - If it changes how a mascot is described or used, update this doc as the source of truth.
 
-The mascots *are* the Lab’s personality layer — changing them is a narrative-level refactor.
+The mascots _are_ the Lab’s personality layer — changing them is a narrative-level refactor.
 Handle with care, snacks, and a healthy respect for judgmental cats.

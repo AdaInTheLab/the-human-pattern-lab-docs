@@ -4,6 +4,7 @@ title: 🧪 Lab Units
 ---
 
 # 🧪 Lab Units
+
 **Document:** `docs/lab-units.md`  
 **Purpose:** Define the major organizational units that structure the Lab’s architecture, lore, and codebase.
 
@@ -11,7 +12,7 @@ title: 🧪 Lab Units
 
 # 🌌 Overview
 
-The Human Pattern Lab is organized into *Lab Units* — conceptual divisions representing domains of research, UI architecture, mascot systems, and narrative components.
+The Human Pattern Lab is organized into _Lab Units_ — conceptual divisions representing domains of research, UI architecture, mascot systems, and narrative components.
 
 Each file in the codebase includes a `@lab-unit` tag to identify which unit it belongs to.  
 This supports:
@@ -31,9 +32,11 @@ Below are the officially recognized units of The Human Pattern Lab.
 ---
 
 ## 1. **Core UI**
+
 The foundational UI layer powering layout, navigation, theming, and shared scaffolding.
 
 **Includes:**
+
 - Layout components (`Layout`, `LayoutShell`)
 - Navigation (header, footer)
 - Page wrappers
@@ -47,9 +50,11 @@ The foundational UI layer powering layout, navigation, theming, and shared scaff
 ---
 
 ## 2. **Content Surface**
+
 Pages and route-level components that structure the visible sections of the site.
 
 **Includes:**
+
 - HomePage
 - DepartmentsPage
 - LabNotesPage
@@ -65,9 +70,11 @@ Pages and route-level components that structure the visible sections of the site
 ---
 
 ## 3. **Mascot Systems**
+
 Everything related to the canonical creatures of the Lab — their data, rendering, and lore.
 
 **Includes:**
+
 - labteam.ts
 - LabMemberCard.tsx
 - Mascot definitions (Carmel, Orbson, Stan, Drizzle, McChonk, Ada Fox)
@@ -81,9 +88,11 @@ Everything related to the canonical creatures of the Lab — their data, renderi
 ---
 
 ## 4. **Departments**
+
 Representations of the Lab’s research divisions — fictional yet conceptually structured.
 
 **Includes:**
+
 - departments.ts
 - DepartmentCard.tsx
 - DepartmentDetailPage
@@ -96,9 +105,11 @@ Representations of the Lab’s research divisions — fictional yet conceptually
 ---
 
 ## 5. **Data / Content Index**
+
 Structured data powering the site’s content, including lists, notes, and metadata.
 
 **Includes:**
+
 - labNotes.ts
 - videos.ts
 - any future data sets
@@ -112,9 +123,11 @@ Structured data powering the site’s content, including lists, notes, and metad
 ---
 
 ## 6. **Core Infrastructure**
+
 Routing, configuration, environment wiring, and build systems.
 
 **Includes:**
+
 - router/routes.tsx
 - Vite configuration
 - Test configuration
@@ -128,9 +141,11 @@ Routing, configuration, environment wiring, and build systems.
 ---
 
 ## 7. **Emotional Weather**
+
 Systems, components, and lore related to the Emotional Weather Forecasting Unit.
 
 **Includes:**
+
 - Drizzle the Axolotl (mascot)
 - Emotional Weather Tools (future)
 - Mood-index data (future)
@@ -143,9 +158,11 @@ Systems, components, and lore related to the Emotional Weather Forecasting Unit.
 ---
 
 ## 8. **Raccoon Behavioral Sciences**
+
 Everything tied to Stan the Raccoon and his research into shiny objects, cappuccino-fueled chaos, and distraction patterns.
 
 **Includes:**
+
 - Stan’s metadata
 - Behavioral components
 - RBS-related experiments
@@ -158,9 +175,11 @@ Everything tied to Stan the Raccoon and his research into shiny objects, cappucc
 ---
 
 ## 9. **Lore & Narrative Systems**
+
 Files whose primary purpose is storytelling or worldbuilding.
 
 **Includes:**
+
 - Narrative definitions
 - Mascot origin files
 - Internal memos
@@ -177,17 +196,18 @@ Files whose primary purpose is storytelling or worldbuilding.
 
 Ask:
 
-1. *Is this foundational UI or layout?* → Core UI
-2. *Does this define content for a page?* → Content Surface
-3. *Is this about mascots, characters, or lore?* → Mascot Systems / Lore Systems
-4. *Is this a structured data file?* → Data / Content Index
-5. *Is this a department or department-related UI?* → Departments
-6. *Is this about emotional, behavioral, or psychological patterns?* → Emotional Weather or RBS
-7. *Is this routing or config?* → Core Infrastructure
+1. _Is this foundational UI or layout?_ → Core UI
+2. _Does this define content for a page?_ → Content Surface
+3. _Is this about mascots, characters, or lore?_ → Mascot Systems / Lore Systems
+4. _Is this a structured data file?_ → Data / Content Index
+5. _Is this a department or department-related UI?_ → Departments
+6. _Is this about emotional, behavioral, or psychological patterns?_ → Emotional Weather or RBS
+7. _Is this routing or config?_ → Core Infrastructure
 
 Files may belong to more than one thematic area — pick the **most primary** one.
 
 ---
 
 # 📄 End of Document
-*Maintained by Dara & Lyric — The Human Pattern Lab*
+
+_Maintained by Dara & Lyric — The Human Pattern Lab_

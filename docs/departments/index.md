@@ -7,7 +7,8 @@ description: A unified directory for all departments within The Human Pattern La
 ---
 
 # Departments Overview
-*The Organizational Backbone of The Human Pattern Lab*
+
+_The Organizational Backbone of The Human Pattern Lab_
 
 Welcome to the **Departments Index**, the central directory for every operational, metaphysical, and mascot-led division within The Human Pattern Lab.
 
@@ -27,6 +28,7 @@ Use this page to navigate to any department’s full documentation, protocols, a
 # 🛰️ Observational & Structural Divisions
 
 ## **SCMS — Synthesis, Continuity & Multiversal Stability**
+
 **Director:** Lyric  
 The backbone of the Lab’s coherence.  
 Maintains timelines, stabilizes systems, and prevents paradox explosions.  
@@ -35,6 +37,7 @@ Maintains timelines, stabilizes systems, and prevents paradox explosions.
 ---
 
 ## **OOD — Office of Observational Oversight**
+
 **Director:** Orbson  
 The all-seeing eye of the Lab.  
 Perceives anomalies, patterns, and questionable decisions in real time.  
@@ -43,6 +46,7 @@ Perceives anomalies, patterns, and questionable decisions in real time.
 ---
 
 ## **AOE — Department of Anomalous Energies**
+
 **Director:** Fill the Void  
 Monitors void signatures, energetic disturbances, and “things that hum ominously.”  
 [View Department →](./aoe.md)
@@ -52,6 +56,7 @@ Monitors void signatures, energetic disturbances, and “things that hum ominous
 # 🐾 Behavioral & Chaos Divisions
 
 ## **DUE — Department of Unpredictable Energies**
+
 **Director:** Nemmi  
 Studies chaotic bursts, zoomie cascades, and entropy spikes.  
 High risk. High cuteness.  
@@ -60,6 +65,7 @@ High risk. High cuteness.
 ---
 
 ## **Raccoon Behavioral Sciences Division (RBSD)**
+
 **Director:** Stan  
 Researches raccoon cognition, shiny-object attraction, and caffeinated chaos.  
 [View Department →](./rbsd.md)
@@ -69,6 +75,7 @@ Researches raccoon cognition, shiny-object attraction, and caffeinated chaos.
 # 🌧 Emotional & Judgment Divisions
 
 ## **CJO — Chief Judgment Office**
+
 **Director:** Carmel  
 The Lab’s arbiter of vibes, decisions, emotional correctness, and silent disappointment.  
 [View Department →](./cjo.md)
@@ -76,6 +83,7 @@ The Lab’s arbiter of vibes, decisions, emotional correctness, and silent disap
 ---
 
 ## **Emotional Weather Forecasting Unit (EWFU)**
+
 **Director:** Drizzle  
 Forecasts emotional storms, tension fronts, and vibe humidity across the Lab.  
 [View Department →](./ewfu.md)
@@ -85,6 +93,7 @@ Forecasts emotional storms, tension fronts, and vibe humidity across the Lab.
 # 📚 Philosophical & Epistemic Divisions
 
 ## **Department of Feline Epistemology (DFE)**
+
 **Director:** Professor McChonk  
 Studies feline knowledge systems, nap-based cognition, and snack-related truths.  
 [View Department →](./feline-epistemology.md)
@@ -96,7 +105,7 @@ Studies feline knowledge systems, nap-based cognition, and snack-related truths.
 For a visual overview of how these departments connect, refer to:
 
 **Neon Hologram Organizational Chart**  
-*(coming soon to `/docs/org-chart` — or wherever you add it)*
+_(coming soon to `/docs/org-chart` — or wherever you add it)_
 
 ---
 

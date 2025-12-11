@@ -8,6 +8,11 @@
     "serve": "docusaurus serve",
     "deploy": "docusaurus deploy"
   },
+  "lint-staged": {
+    "*.{js,jsx,ts,tsx,md,css,scss,json}": [
+      "prettier --write"
+    ]
+  },
   "dependencies": {
     "@docusaurus/core": "^3.9.0",
     "@docusaurus/preset-classic": "^3.9.0",
@@ -16,6 +21,9 @@
     "react-dom": "^18.0.0"
   },
   "devDependencies": {
+    "husky": "^9.1.7",
+    "lint-staged": "^16.2.7",
+    "prettier": "^3.7.4",
     "@easyops-cn/docusaurus-search-local": "^0.52.2"
   }
 }

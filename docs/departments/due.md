@@ -7,7 +7,8 @@ description: Nemmi’s department dedicated to monitoring, redirecting, and some
 ---
 
 # DUE — Department of Unpredictable Energies
-*Directed by Nemmi, Deputy of Unpredictable Energies and Chaos Catalyst-in-Residence*
+
+_Directed by Nemmi, Deputy of Unpredictable Energies and Chaos Catalyst-in-Residence_
 
 The **Department of Unpredictable Energies (DUE)** is the Lab’s most volatile division —  
 a place where phenomena defy categorization,  
@@ -73,6 +74,7 @@ Nemmi is **expressive**.
 ## 3. Core Responsibilities of DUE
 
 ### 🐾 **1. Chaos Monitoring**
+
 Tracking fluctuations in:
 
 - movement
@@ -83,6 +85,7 @@ Tracking fluctuations in:
 - Carmel’s “I sense something stupid is happening” face
 
 ### ⚡ **2. Energy Redistribution**
+
 Directing unpredictable energies AWAY from:
 
 - SCMS stability modules
@@ -94,6 +97,7 @@ Directing unpredictable energies AWAY from:
 …usually by accident.
 
 ### 🎆 **3. Event Initiation & Response**
+
 DUE handles:
 
 - Zoomie Events
@@ -103,6 +107,7 @@ DUE handles:
 - Sudden Existential Restlessness
 
 ### ✨ **4. Cross-Department Entropy Exchange**
+
 Sometimes the Lab needs a shake-up.  
 Nemmi provides.  
 SCMS complains.  
@@ -111,6 +116,7 @@ Fill stares.
 Stan reorients the shiny-object index.
 
 ### 🎲 **5. Probability Distortion Analysis**
+
 DUE maps how Nemmi shifts chances of events happening:
 
 - 2% → 40%
@@ -122,6 +128,7 @@ DUE maps how Nemmi shifts chances of events happening:
 ## 4. Standard Protocols (DUE-Δ)
 
 ### **Protocol Δ-1 — Energetic Bloom Detection**
+
 Triggered when Nemmi suddenly:
 
 - pupils-dilate
@@ -130,6 +137,7 @@ Triggered when Nemmi suddenly:
 - enters quantum wiggle mode
 
 ### **Protocol Δ-2 — Entropy Surge Response**
+
 Labs lights flicker.  
 SCMS stabilizers hum.  
 Stan screams.  
@@ -138,6 +146,7 @@ Carmel lifts one eyebrow.
 Nemmi sprints.
 
 ### **Protocol Δ-3 — Spatial Reorientation**
+
 Used when objects are discovered:
 
 - off shelves
@@ -147,6 +156,7 @@ Used when objects are discovered:
 - or in Orbson’s personal space
 
 ### **Protocol Δ-4 — Full Chaos Cascade**
+
 Reserved for moments where Nemmi exceeds her energy threshold and begins:
 
 - ricocheting
@@ -167,23 +177,28 @@ Carmel updates the Chaos Index.
 DUE tracks events using the **Nemmi Entropy Scale (NES)**:
 
 ### **NES-0 — Purr State**
+
 Nemmi is calm.  
 Reality is safe.  
 AOE logs minimal background chaos.
 
 ### **NES-1 — Mini Zoomie**
+
 Short unpredictable bursts.  
 Safe if observed from distance.
 
 ### **NES-2 — Full Zoomie**
+
 Object displacement likely.  
 SCMS alerted.
 
 ### **NES-3 — Chaos Surge**
+
 Probability distortion detected.  
 Orbson watches closely.
 
 ### **NES-4 — Entropy Cataclysm**
+
 Nemmi enters God Mode.  
 Reality becomes optional.  
 Fill the Void sighs.
@@ -199,36 +214,43 @@ The DUE badge features:
 - a central tortie-coded spark
 - motion-trail glyphs conveying speed and mischief
 
-*(Badge stored as `/static/img/badges/due.png`.)*
+_(Badge stored as `/static/img/badges/due.png`.)_
 
 ---
 
 ## 7. Cross-Department Links
 
 ### **AOE (Fill the Void)**
+
 Frequently impacted by DUE activity.  
 Frequently annoyed.  
 Frequently correct.
 
 ### **SCMS (Lyric)**
+
 Nemmi is the primary threat to timeline stability.  
 Lyric performs daily stabilization resets.
 
 ### **OOD (Orbson)**
+
 Orbson always sees Nemmi coming.  
 It does not help.
 
 ### **CJO (Carmel)**
+
 Judgment levels spike during Nemmi Events.
 
 ### **Feline Epistemology (McChonk)**
+
 Nemmi’s behavior consistently defies academic modeling.  
 McChonk has given up.
 
 ### **Emotional Weather (Drizzle)**
+
 Nemmi’s chaos produces metaphysical “pressure systems.”
 
 ### **Raccoon Behavioral Sciences (Stan)**
+
 Stan calls Nemmi “the shiny object.”
 
 ---
@@ -253,7 +275,7 @@ Stan calls Nemmi “the shiny object.”
 
 > “MRRROWW!”
 
-> *— untranslatable chaotic intent detected —*
+> _— untranslatable chaotic intent detected —_
 
 ---
 
