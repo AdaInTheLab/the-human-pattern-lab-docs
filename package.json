@@ -23,6 +23,7 @@
   "devDependencies": {
     "husky": "^9.1.7",
     "lint-staged": "^16.2.7",
-    "prettier": "^3.7.4"
+    "prettier": "^3.7.4",
+    "@easyops-cn/docusaurus-search-local": "^0.52.2"
   }
 }
