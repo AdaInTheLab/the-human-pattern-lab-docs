@@ -1,0 +1,11 @@
+#!/bin/sh
+. "$(dirname "$0")/_/husky.sh"
+
+echo "😼 Carmel is checking your spacing..."
+
+npx lint-staged || {
+  echo "😼❌ Carmel rejects this commit. Fix your spacing."
+  exit 1
+}
+
+echo "😼✔️ Carmel approves this formatting."
