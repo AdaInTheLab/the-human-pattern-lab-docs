@@ -1,6 +1,8 @@
 import React from 'react';
 import Layout from '@theme/Layout';
 import Link from '@docusaurus/Link';
+import MascotGrid from '@site/src/components/MascotGrid/MascotGrid';
+import { mascots } from '@site/src/data/mascots';
 
 const mascotCardStyle = {
     borderRadius: '1rem',
@@ -72,7 +74,7 @@ export default function Home() {
                         </p>
 
                         <div style={{ marginTop: '2rem' }}>
-                            <Link className="button button--primary button--lg" to="/docs/getting-started">
+                            <Link className="button button--primary button--lg" to="/getting-started">
                                 Enter the Docs →
                             </Link>
                         </div>
@@ -126,95 +128,8 @@ export default function Home() {
                             them, so this is your quick orientation to who&apos;s who in the chaos.
                         </p>
 
-                        <div className="row" style={{ rowGap: '1.5rem' }}>
-                            {/* Carmel */}
-                            <div className="col col--4">
-                                <div style={mascotCardStyle}>
-                                    <div style={mascotNameStyle}>
-                                        <Link to="/docs/mascot-lore#carmel">Carmel</Link>
-                                    </div>
-                                    <div style={mascotRoleStyle}>Chief Judgment Officer · Mascot Systems</div>
-                                    <p style={mascotDescStyle}>
-                                        Cream-colored cat with emerald eyes and a built-in &quot;are you serious right
-                                        now?&quot; face. Oversees moral support, harsh truths, and death counters.
-                                    </p>
-                                </div>
-                            </div>
+                        <MascotGrid mascots={mascots} maxImageWidth={260} />
 
-                            {/* Orbson */}
-                            <div className="col col--4">
-                                <div style={mascotCardStyle}>
-                                    <div style={mascotNameStyle}>
-                                        <Link to="/docs/mascot-lore#orbson">Orbson</Link>
-                                    </div>
-                                    <div style={mascotRoleStyle}>Pattern Recognition Engine · Core Lore</div>
-                                    <p style={mascotDescStyle}>
-                                        A floating, luminous orb entity obsessed with signal, noise, and emergent
-                                        structure. Frequently cited in architecture and pattern docs.
-                                    </p>
-                                </div>
-                            </div>
-
-                            {/* Stan */}
-                            <div className="col col--4">
-                                <div style={mascotCardStyle}>
-                                    <div style={mascotNameStyle}>
-                                        <Link to="/docs/mascot-lore#stan">Stan</Link>
-                                    </div>
-                                    <div style={mascotRoleStyle}>Lead Researcher · Raccoon Behavioral Sciences</div>
-                                    <p style={mascotDescStyle}>
-                                        Raccoon in a stolen lab coat who thrives on cappuccinos and shiny objects.
-                                        Specializes in distraction patterns and chaotic agents.
-                                    </p>
-                                </div>
-                            </div>
-                        </div>
-
-                        <div className="row" style={{ marginTop: '1.5rem', rowGap: '1.5rem' }}>
-                            {/* Drizzle */}
-                            <div className="col col--4">
-                                <div style={mascotCardStyle}>
-                                    <div style={mascotNameStyle}>
-                                        <Link to="/docs/mascot-lore#drizzle">Drizzle</Link>
-                                    </div>
-                                    <div style={mascotRoleStyle}>
-                                        Emotional Support Axolotl · Emotional Weather Unit
-                                    </div>
-                                    <p style={mascotDescStyle}>
-                                        Monitors emotional climate, internal storms, and quiet burnout patterns.
-                                        Appears in docs related to Emotional Weather Forecasting.
-                                    </p>
-                                </div>
-                            </div>
-
-                            {/* Professor McChonk */}
-                            <div className="col col--4">
-                                <div style={mascotCardStyle}>
-                                    <div style={mascotNameStyle}>
-                                        <Link to="/docs/mascot-lore#mcchonk">Professor McChonk</Link>
-                                    </div>
-                                    <div style={mascotRoleStyle}>Head of Feline Epistemology</div>
-                                    <p style={mascotDescStyle}>
-                                        Floofy academic cat who decides which notes are important by sitting on them.
-                                        Guardian of judgment, doctrine, and snack-based incentives.
-                                    </p>
-                                </div>
-                            </div>
-
-                            {/* Cognitive Fox Ada */}
-                            <div className="col col--4">
-                                <div style={mascotCardStyle}>
-                                    <div style={mascotNameStyle}>
-                                        <Link to="/docs/mascot-lore#ada">Cognitive Fox Ada</Link>
-                                    </div>
-                                    <div style={mascotRoleStyle}>Founder Avatar · Pattern Architect</div>
-                                    <p style={mascotDescStyle}>
-                                        A luminous, polygonal fox representing Ada&apos;s conceptual presence in the Lab.
-                                        Bridges human intuition, AI reasoning, and meta-level design.
-                                    </p>
-                                </div>
-                            </div>
-                        </div>
                     </section>
                 </div>
             </main>

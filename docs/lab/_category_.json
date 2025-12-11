@@ -1,0 +1,9 @@
+{
+  "label": "🧪 The Lab",
+  "position": 1,
+  "link": {
+    "type": "generated-index",
+    "title": "🧪 Lab Systems & Guides",
+    "description": "Core documentation for the Human Pattern Lab: architecture, systems, design guidelines, workflows, and general operating principles."
+  }
+}

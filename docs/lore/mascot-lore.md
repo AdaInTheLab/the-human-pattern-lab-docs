@@ -1,6 +1,6 @@
 ---
 id: mascot-lore
-title: Mascot Lore
+title: 🐾 Mascot Lore
 ---
 
 # 🐾 Mascot Lore

@@ -1,0 +1,68 @@
+import type { Mascot } from "@site/src/components/MascotGrid/MascotGrid";
+
+export const mascots: Mascot[] = [
+    {
+        id: "orbson",
+        name: "Orbson",
+        title: "Director of Observational Oversight",
+        department: "OOD",
+        image: "img/mascots/orbson.png",
+        blurb: "Cryptid overseer of all data streams and anomalies.",
+    },
+    {
+        id: "lyric",
+        name: "Lyric",
+        title: "Director of Synthesis & Continuity",
+        department: "SCMS",
+        image: "img/mascots/lyric.png",
+        blurb: "Keeps the timelines, lore threads, and systems coherent.",
+    },
+    {
+        id: "fill-the-void",
+        name: "Fill the Void",
+        title: "Director of Anomalous Energies",
+        department: "AOE",
+        image: "img/mascots/fill-the-void.png",
+        blurb: "Calm guardian of void events and reality glitches.",
+    },
+    {
+        id: "nemmi",
+        name: "Nemmi",
+        title: "Deputy of Unpredictable Energies",
+        department: "DUE",
+        image: "img/mascots/nemmi.png",
+        blurb: "Chaos vector specialist. No two days alike.",
+    },
+    {
+        id: "carmel",
+        name: "Carmel",
+        title: "Chief Judgment Officer",
+        department: "CJO",
+        image: "img/mascots/carmel.png",
+        blurb: "Delivers official verdicts on behavior and builds.",
+    },
+    {
+        id: "prof-mcchonk",
+        name: "Professor McChonk",
+        title: "Chair of Feline Epistemology",
+        department: "FE",
+        image: "img/mascots/prof-mcchonk.png",
+        blurb: "Teaches soft authority, snacks, and knowledge frameworks.",
+    },
+    {
+        id: "stan",
+        name: "Stan",
+        title: "Lead, Raccoon Behavioral Sciences",
+        department: "RBS",
+        image: "img/mascots/stan.png",
+        blurb: "Specialist in shiny-object bias and social chaos.",
+    },
+    {
+        id: "drizzle",
+        name: "Drizzle",
+        title: "Emotional Weather Forecaster",
+        department: "EWFU",
+        image: "img/mascots/drizzle.png",
+        blurb: "Tracks emotional front systems and storm warnings.",
+    },
+];
