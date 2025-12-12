@@ -1,0 +1,10 @@
+{
+  "label": "📘 Logs",
+  "position": 50,
+  "collapsed": false,
+  "link": {
+    "type": "generated-index",
+    "title": "Department Logs",
+    "description": "A cross-department archive documenting incidents, anomalies, sock-related crimes, and operational chaos throughout the Lab."
+  }
+}
