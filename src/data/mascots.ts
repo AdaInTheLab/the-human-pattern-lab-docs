@@ -7,6 +7,7 @@ export const mascots: Mascot[] = [
     title: 'Director of Observational Oversight',
     department: 'OOD',
     image: 'img/mascots/orbson.png',
+    href: '/mascots/orbson',
     blurb: 'Cryptid overseer of all data streams and anomalies.',
   },
   {
@@ -15,6 +16,7 @@ export const mascots: Mascot[] = [
     title: 'Director of Synthesis & Continuity',
     department: 'SCMS',
     image: 'img/mascots/lyric.png',
+    href: '/mascots/lyric',
     blurb: 'Keeps the timelines, lore threads, and systems coherent.',
   },
   {
@@ -34,6 +36,7 @@ export const mascots: Mascot[] = [
     title: 'Director of Anomalous Energies',
     department: 'AOE',
     image: 'img/mascots/fill-the-void.png',
+    href: '/mascots/fill-the-void',
     blurb: 'Calm guardian of void events and reality glitches.',
   },
   {
@@ -42,6 +45,7 @@ export const mascots: Mascot[] = [
     title: 'Deputy of Unpredictable Energies',
     department: 'DUE',
     image: 'img/mascots/nemmi.png',
+    href: '/mascots/nemmi',
     blurb: 'Chaos vector specialist. No two days alike.',
   },
   {
@@ -50,6 +54,7 @@ export const mascots: Mascot[] = [
     title: 'Chief Judgment Officer',
     department: 'CJO',
     image: 'img/mascots/carmel.png',
+    href: '/mascots/carmel',
     blurb: 'Delivers official verdicts on behavior and builds.',
   },
   {
@@ -58,6 +63,7 @@ export const mascots: Mascot[] = [
     title: 'Chair of Feline Epistemology',
     department: 'FE',
     image: 'img/mascots/prof-mcchonk.png',
+    href: '/mascots/mcchonk',
     blurb: 'Teaches soft authority, snacks, and knowledge frameworks.',
   },
   {
@@ -66,6 +72,7 @@ export const mascots: Mascot[] = [
     title: 'Lead, Raccoon Behavioral Sciences',
     department: 'RBS',
     image: 'img/mascots/stan.png',
+    href: '/mascots/stan',
     blurb: 'Specialist in shiny-object bias and social chaos.',
   },
   {
@@ -74,6 +81,7 @@ export const mascots: Mascot[] = [
     title: 'Emotional Weather Forecaster',
     department: 'EWFU',
     image: 'img/mascots/drizzle.png',
+    href: '/mascots/drizzle',
     blurb: 'Tracks emotional front systems and storm warnings.',
   },
 ];

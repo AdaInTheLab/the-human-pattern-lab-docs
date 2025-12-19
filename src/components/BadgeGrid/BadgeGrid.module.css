@@ -91,9 +91,52 @@
   hyphens: auto;
 }
 
-/* Makes the whole card clickable without changing layout */
+.card a {
+  color: inherit;
+  text-decoration: none;
+}
+
+.card {
+  cursor: pointer;
+}
+
+.card:hover {
+  transform: translateY(-2px);
+  box-shadow:
+    0 0 0 1px rgba(120, 180, 255, 0.25),
+    0 12px 40px rgba(0, 0, 0, 0.35);
+}
+
+.card[data-has-link='true'] {
+  cursor: pointer;
+}
+
+/* --- Link reset inside cards (kills global anchor hover/purple/underline) --- */
 .cardLink {
-  display: contents;
+  display: block; /* make the link wrap the whole card content area */
+  height: 100%;
+  color: inherit;
+  text-decoration: none;
+  border-radius: inherit; /* keep rounded corners consistent */
+}
+
+.cardLink:hover,
+.cardLink:active,
+.cardLink:visited {
+  color: inherit;
+  text-decoration: none;
+}
+
+/* keyboard focus: keep it pretty + accessible */
+.cardLink:focus-visible {
+  outline: 2px solid rgba(120, 180, 255, 0.55);
+  outline-offset: 4px;
+  text-decoration: none;
+}
+
+/* Optional: if Docusaurus is adding underline to any descendants */
+.cardLink * {
+  text-decoration: none !important;
 }
 
 /* Only show hover text when it exists */
@@ -105,16 +148,25 @@
     transform 160ms ease;
 }
 
+/* Absolute hover text: give it an actual width */
 .blurbHover {
   position: absolute;
+  left: 0;
+  right: 0;
+  top: 0; /* sits exactly where default blurb sits */
   opacity: 0;
   transform: translateY(4px);
   pointer-events: none;
-}
 
-/* Ensure the blurb line can swap content cleanly */
+  white-space: normal;
+  overflow-wrap: anywhere; /* prevents ultra-squeeze */
+  word-break: normal;
+}
+/* Ensure the blurb line is a full-width containing block */
 .description {
   position: relative;
+  display: block;
+  width: 100%;
 }
 
 /* Swap on hover/focus — only when hover blurb exists */
