@@ -18,6 +18,17 @@ export const mascots: Mascot[] = [
     blurb: 'Keeps the timelines, lore threads, and systems coherent.',
   },
   {
+    id: 'vesper',
+    name: 'Vesper',
+    title: 'Field Reconnaissance & Shadow Cartographer',
+    department: 'FRSC',
+    image: 'img/mascots/vesper.png',
+    silhouetteImage: 'img/mascots/vesper-silhouette.png',
+    href: '/docs/vesper',
+    blurb: 'Void fox scout mapping emerging patterns before they fully form.',
+    hoverBlurb: '“I saw the mirror before it saw itself.”',
+  },
+  {
     id: 'fill-the-void',
     name: 'Fill the Void',
     title: 'Director of Anomalous Energies',

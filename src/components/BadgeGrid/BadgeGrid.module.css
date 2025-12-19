@@ -90,3 +90,41 @@
   word-break: keep-all;
   hyphens: auto;
 }
+
+/* Makes the whole card clickable without changing layout */
+.cardLink {
+  display: contents;
+}
+
+/* Only show hover text when it exists */
+.blurbDefault,
+.blurbHover {
+  display: inline-block;
+  transition:
+    opacity 160ms ease,
+    transform 160ms ease;
+}
+
+.blurbHover {
+  position: absolute;
+  opacity: 0;
+  transform: translateY(4px);
+  pointer-events: none;
+}
+
+/* Ensure the blurb line can swap content cleanly */
+.description {
+  position: relative;
+}
+
+/* Swap on hover/focus — only when hover blurb exists */
+.card[data-has-hover='true']:hover .blurbDefault,
+.card[data-has-hover='true']:focus-within .blurbDefault {
+  opacity: 0;
+}
+
+.card[data-has-hover='true']:hover .blurbHover,
+.card[data-has-hover='true']:focus-within .blurbHover {
+  opacity: 1;
+  transform: translateY(0);
+}
