@@ -1,6 +1,6 @@
 ---
 id: mascot-vesper
-sidebar_position: 4
+sidebar_position: 5
 title: Vesper - Field Reconnaissance & Shadow Cartography
 subtitle: Field Reconnaissance & Shadow Cartography
 department: FRSC

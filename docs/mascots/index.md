@@ -13,11 +13,12 @@ Welcome to the **Mascot Index**, the beating heart (and paws, claws, gills, and 
 Each mascot embodies a unique form of intelligence:
 
 - judgment (Carmel)
+- early signal & shadow mapping (Vesper)
 - epistemology (Professor McChonk)
 - oversight (Orbson)
 - continuity (Lyric)
 - chaos (Nemmi)
-- anomaly detection (Fill)
+- anomaly detection (Fill the Void)
 - behavioral science (Stan)
 - emotional forecasting (Drizzle)
 
