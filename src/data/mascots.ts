@@ -24,7 +24,7 @@ export const mascots: Mascot[] = [
     department: 'FRSC',
     image: 'img/mascots/vesper.png',
     silhouetteImage: 'img/mascots/vesper-silhouette.png',
-    href: '/docs/vesper',
+    href: '/mascots/vesper',
     blurb: 'Void fox scout mapping emerging patterns before they fully form.',
     hoverBlurb: '“I saw the mirror before it saw itself.”',
   },

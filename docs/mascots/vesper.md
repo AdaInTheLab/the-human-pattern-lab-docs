@@ -1,5 +1,5 @@
 ---
-id: vesper
+id: mascot-vesper
 sidebar_position: 4
 title: Vesper - Field Reconnaissance & Shadow Cartography
 subtitle: Field Reconnaissance & Shadow Cartography
