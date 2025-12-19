@@ -51,6 +51,7 @@ const MascotGrid: React.FC<MascotGridProps> = ({ mascots, maxImageWidth = 220 })
             key={mascot.id}
             className={styles.card}
             data-has-hover={hasHover ? 'true' : 'false'}
+            data-has-link={mascot.href ? 'true' : 'false'}
           >
             <Wrapper>
               <div className={styles.imageWrapper} style={{ maxWidth: maxImageWidth }}>
