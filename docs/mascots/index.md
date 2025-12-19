@@ -1,5 +1,6 @@
 ---
 id: mascots-index
+sidebar_position: 1
 title: 🐾 Mascots of the Human Pattern Lab
 sidebar_label: Mascots Overview
 description: Meet the core mascots who power the Lab’s departments, personality systems, chaos engines, and narrative architecture.
