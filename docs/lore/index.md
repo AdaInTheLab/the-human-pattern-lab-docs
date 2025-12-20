@@ -2,6 +2,7 @@
 id: lore-index
 title: 📜 Lore Archive
 sidebar_label: Lore Overview
+sidebar_position: 1
 description: A structured archive of the official mythology, timelines, protocols, incidents, and multiversal narratives of The Human Pattern Lab.
 ---
 
