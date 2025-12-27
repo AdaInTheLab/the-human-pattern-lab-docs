@@ -1,7 +1,7 @@
 {
   "name": "the-human-pattern-lab-docs",
   "version": "1.0.0",
-  "type": "module",
+  "type": "commonjs",
   "private": true,
   "description": "Documentation site for The Human Pattern Lab",
   "scripts": {
