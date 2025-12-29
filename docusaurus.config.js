@@ -85,7 +85,7 @@ const config = {
           items: [
             {
               label: 'Contributing',
-              to: '/contributing',
+              to: '/lab/contributing',
             },
           ],
         },
