@@ -1,0 +1,25 @@
+---
+title: API Errors
+sidebar_position: 3
+---
+
+# ❌ API Errors
+
+All errors use a consistent shape.
+
+```json
+{
+  "ok": false,
+  "error": {
+    "code": "BAD_REQUEST",
+    "message": "Human-readable summary"
+  }
+}
+```
+
+Common error codes:
+- BAD_REQUEST
+- NOT_FOUND
+- UNAUTHORIZED
+- FORBIDDEN
+- INTERNAL_ERROR

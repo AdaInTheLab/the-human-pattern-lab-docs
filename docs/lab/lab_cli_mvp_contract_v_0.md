@@ -91,6 +91,46 @@ All structured outputs include:
 }
 ```
 
+---
+
+### 3.4 Explicit Intent (with Intent Registry)
+
+Every command MUST declare its intent in machine-readable form.
+
+Intent is a stable identifier, not a description.
+
+It exists so that AI agents and automation can reason about actions without inferring behavior from documentation, flags, or prose.
+
+Each command must emit, at minimum:
+
+```json
+{
+  "intent": "<intent_id>",
+  "intentVersion": "1",
+  "scope": ["<resource>", "..."],
+  "sideEffects": ["<effect>", "..."],
+  "reversible": true | false
+}
+
+```
+
+### 3.4.1 Intent IDs
+
+Intent IDs are:
+
+- snake_case
+- stable across releases
+- treated as contractual identifiers
+
+Changing the meaning of an existing intent is considered a breaking change, even in v0.x, and must be:
+
+- explicitly documented
+- reflected in schema versioning
+
+### New intents are additive and non-breaking.
+
+---
+
 Schema changes that:
 
 - remove fields
@@ -142,6 +182,57 @@ Operations that:
 …must require **explicit flags or affirmations**.
 
 Creation of Lab Notes by AI agents is considered **constructive, non‑destructive behavior** and is explicitly supported within safe defaults.
+
+---
+
+#### Phase 2: Full Registry (v0.x)
+
+The Full registry expands intent coverage while preserving Alpha guarantees.
+
+**Lab Notes**
+
+- `sync_lab_notes`
+- `create_lab_note`
+- `update_lab_note`
+- `propose_update`
+- `validate_lab_note`
+- `render_lab_note`
+
+**Authentication**
+
+- `auth_login`
+- `auth_logout`
+- `auth_status`
+
+**System / Meta**
+
+- `show_version`
+- `show_capabilities`
+- `explain_command`
+
+---
+
+### 3.4.3 Capability Disclosure
+
+The `show_capabilities` intent **MUST** emit:
+
+- the current intent tier (`alpha` or `full`)
+- the list of supported intent IDs
+- the active schemaVersion(s)
+
+This allows AI agents to adapt behavior safely based on observed capability, not assumptions.
+
+---
+
+### 3.4.4 No Implicit Intent
+
+No command may:
+
+- rely on humans or AI inferring intent from flags
+- overload multiple intents into a single undeclared action
+- perform side effects outside its declared intent envelope
+
+If an action cannot be clearly expressed as an intent, it is **out of scope** for the CLI.
 
 ---
 

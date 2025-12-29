@@ -1,0 +1,65 @@
+---
+title: Lab Notes API
+sidebar_position: 2
+---
+
+# 🧪 Lab Notes API (v0.x)
+
+This document defines the canonical contract for Lab Notes.
+
+---
+
+## Base URL
+
+```
+https://thehumanpatternlab.com/api
+```
+
+---
+
+## Response Envelope
+
+Success:
+```json
+{ "ok": true, "data": {} }
+```
+
+Error:
+```json
+{
+  "ok": false,
+  "error": { "code": "NOT_FOUND", "message": "Lab note not found." }
+}
+```
+
+---
+
+## Data Model: LabNote
+
+```json
+{
+  "id": "string",
+  "slug": "string",
+  "title": "string",
+  "summary": "string",
+  "contentHtml": "string",
+  "published": "YYYY-MM-DD or empty string",
+  "department_id": "string",
+  "shadow_density": 0,
+  "safer_landing": false,
+  "tags": [],
+  "readingTime": 5
+}
+```
+
+---
+
+## GET /lab-notes
+
+Returns a list of Lab Notes.
+
+---
+
+## GET /lab-notes/:slug
+
+Returns a single Lab Note by slug.

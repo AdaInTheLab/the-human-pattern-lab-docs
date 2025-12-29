@@ -1,0 +1,9 @@
+{
+  "label": "\uD83E\uDDEC API",
+  "position": 3,
+  "link": {
+    "type": "generated-index",
+    "title": "\uD83E\uDDEC API Reference",
+    "description": "Canonical contracts for interacting with The Human Pattern Lab systems. These documents describe data shape, behavior, and evolution — not just endpoints."
+  }
+}

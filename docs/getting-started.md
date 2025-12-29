@@ -1,16 +1,61 @@
+---
+id: getting-started
+title: 🚀 Getting Started
+sidebar_position: 1
+---
+
 # 🚀 Getting Started
 
-**How to run The Human Pattern Lab locally**
+**Welcome to The Human Pattern Lab**
 
-Welcome to the Lab! Whether you're exploring patterns, contributing features, or just poking around to see why there are raccoons in lab coats, this guide will help you spin up the development environment on your own machine.
+The Human Pattern Lab is a living system for exploring human behavior, AI collaboration, and emergent patterns — built with care, curiosity, and the occasional raccoon in a lab coat.
 
-This is a lightweight React + Vite project using Tailwind CSS v4 and TypeScript, with a focus on clean architecture, cosmic UI, and mascot-driven lore systems.
+Whether you’re:
+
+- exploring the ideas,
+- contributing content,
+- building features,
+- or integrating with the Lab’s data systems,
+
+this guide will orient you quickly and safely.
 
 ---
 
-## 🧰 Prerequisites
+## 🧭 Start Here (Recommended Path)
 
-Before starting, make sure your machine has:
+Most visitors should begin with:
+
+- 🧭 **Departments** — understand how the Lab is organized
+- 🧪 **API Reference** — see the real data shape behind the systems
+- 📝 **Lab Notes** — read published work and in-progress drafts
+
+If you’re here to _build_ or _run_ the Lab locally, continue below.
+
+---
+
+## 🧪 Working With Lab Data (Quick Overview)
+
+The Lab exposes a read-only API for inspecting notes, drafts, and published material.
+
+- **Base URL:** `https://thehumanpatternlab.com/api`
+- **Primary resource:** Lab Notes
+
+You can explore:
+
+- published vs draft notes
+- departmental ownership
+- summaries and rendered content
+
+Full contracts live here:  
+→ **API Reference → Lab Notes API**
+
+(If you can “show me the data,” you’re already doing it right.)
+
+---
+
+## 🧰 Prerequisites (Local Development)
+
+To run the Lab locally, your machine needs:
 
 ### ✔ Node.js
 
@@ -32,9 +77,13 @@ nvm use 20
 If you don’t have nvm installed:  
 https://github.com/nvm-sh/nvm
 
+---
+
 ### ✔ npm
 
-Comes with Node. Check with:
+Bundled with Node.
+
+Check with:
 
 ```bash
 npm -v
@@ -65,8 +114,8 @@ This installs:
 - Tailwind CSS v4
 - TypeScript
 - Vitest
-- Lab mascot/data systems
-- All shared UI components
+- Lab mascot and data systems
+- Shared UI components
 
 ---
 
@@ -88,20 +137,26 @@ Open that in your browser to launch the Lab UI.
 
 ---
 
-## 🧬 Project Structure (Quick Overview)
+## 🧬 Project Structure (Quick Map)
 
 ```
 src/
-  components/        → UI building blocks (layout, cards, widgets)
+  components/        → UI building blocks
   pages/             → Route-driven screens
-  data/              → Lab members, departments, notes, videos
+  data/              → Lab members, departments, notes
   router/            → Routing configuration
-  styles/            → Global CSS (Tailwind v4)
+  styles/            → Global Tailwind v4 styles
   types/             → Shared TypeScript models
-  assets/            → Images, icons, mascots, etc.
+  assets/            → Images, icons, mascots
 ```
 
-Mascot lore lives in `src/data/labteam.ts` — marked `@status lore-critical`.
+Mascot lore lives in:
+
+```
+src/data/labteam.ts
+```
+
+(marked `@status lore-critical`)
 
 ---
 
@@ -147,18 +202,17 @@ npm run test:watch
 
 ## 🌌 Metadata & File Headers
 
-Every major file includes:
+Most major files include:
 
 - A cosmic metadata banner
-- A JSDoc block with authorship
-- `@lab-unit` categorization
-- `@status` maturity indicator
-- Descriptions and purpose fields
+- JSDoc authorship
+- `@lab-unit` ownership
+- `@status` maturity indicators
 
 Additional docs:
 
 - `docs/code-status.md`
-- `docs/lab-units.md` _(coming soon)_
+- `docs/lab-units.md` (coming soon)
 
 ---
 
@@ -174,7 +228,7 @@ import '@/index.css';
 
 ### Node version mismatch
 
-Use Node **20.19 or later**.
+Use Node **20.19+**
 
 ### Routes misbehaving
 
@@ -188,21 +242,14 @@ React Router is strict about nesting and relative paths.
 
 ---
 
-## 🎉 You’re Ready
+## 🎉 You’re Oriented
 
-You now have:
+You now know:
 
-- Dev server running
-- File structure understood
-- Mascots whispering guidance
-- A glowing UI powered by cosmic Tailwind
-
-Next steps:
-
-- Explore `src/pages/` to modify views
-- Edit `src/data/` to update content
-- Customize UI components
-- Experiment, build, and have fun
+- how the Lab is structured
+- where the data lives
+- how to run it locally
+- where to explore next
 
 Welcome to The Human Pattern Lab.  
-May your patterns be sharp and your raccoons caffeinated.
+May your systems stay legible and your raccoons remain caffeinated.
