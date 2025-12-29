@@ -210,4 +210,4 @@ Files may belong to more than one thematic area — pick the **most primary** on
 
 # 📄 End of Document
 
-_Maintained by Dara & Lyric — The Human Pattern Lab_
+_Maintained by Ada & Lyric — The Human Pattern Lab_

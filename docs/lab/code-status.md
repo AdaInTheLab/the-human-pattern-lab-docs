@@ -225,4 +225,4 @@ This taxonomy:
 
 # 📄 End of Document
 
-_Maintained by Dara & Lyric — The Human Pattern Lab_
+_Maintained by Ada & Lyric — The Human Pattern Lab_
