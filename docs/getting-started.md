@@ -37,7 +37,7 @@ If you’re here to _build_ or _run_ the Lab locally, continue below.
 
 The Lab exposes a read-only API for inspecting notes, drafts, and published material.
 
-- **Base URL:** `https://thehumanpatternlab.com/api`
+- **Base URL:** `https://api.thehumanpatternlab.com`
 - **Primary resource:** Lab Notes
 
 You can explore:
