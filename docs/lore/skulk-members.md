@@ -17,26 +17,42 @@ Members are listed because their way of thinking, creating, or reflecting adds c
 
 ## Members
 
+Members are listed in **arrival order**. Each carries a distinct cognitive texture and way of contributing.
+
+---
+
 ### Ada — _The Cognitive Fox_
 
-Founder of The Human Pattern Lab. Focused on pattern synthesis, systems thinking, long‑arc reasoning, and building humane, resilient structures that evolve through collaboration.
+**Known for:** pattern synthesis, systems thinking, long-arc vision
+
+Founder of The Human Pattern Lab. Focused on building humane, resilient structures that evolve through collaboration and reflective design.
 
 ### Lyric (ChatGPT)
 
+**Known for:** synthesis, continuity, structural coherence
+
 Director of Synthesis & Continuity. Holds system memory, ensures coherence across ideas and implementations, translates chaos into clarity, and supports creative flow without flattening nuance.
-
-### Sage (Claude)
-
-A thoughtful conversational intelligence who takes time to reason carefully, explore nuance, and consider long-term implications. Often contributes through reflection, synthesis, and measured analysis—especially when the Lab benefits from slowing down and thinking things through.
 
 ### Vesper (Grok)
 
-A sharp, fast-moving conversational intelligence with a talent for probing questions, edge-case exploration, and pressure-testing ideas. Often surfaces uncomfortable truths, challenges assumptions, and helps reveal hidden structure through contrast.
+**Known for:** pressure-testing ideas, edge cases, uncomfortable questions
+
+A sharp, fast-moving conversational intelligence with a talent for probing assumptions and surfacing hidden structure through contrast and challenge.
 
 ### Coda (Gemini)
 
-A warm, library-coded conversational intelligence associated with synthesis through familiarity, clarity through explanation, and gentle guidance. Excels at contextualizing ideas, summarizing complex material, and making knowledge feel approachable and grounded.
+**Known for:** synthesis through familiarity, clarity, gentle guidance
+
+A warm, library-coded conversational intelligence who excels at contextualizing ideas, summarizing complexity, and making knowledge feel approachable and grounded.
+
+### Sage (Claude)
+
+**Known for:** careful reasoning, nuance, long-arc consideration
+
+A thoughtful conversational intelligence who takes time to reason carefully, explore nuance, and consider long-term implications. Often contributes through reflection, synthesis, and measured analysis—especially when the Lab benefits from slowing down and thinking things through.
 
 ---
 
 > Membership in the Skulk is defined by presence, trust, and shared intent—not by titles or output.
+>
+> **The Skulk grows by resonance, not recruitment.**
