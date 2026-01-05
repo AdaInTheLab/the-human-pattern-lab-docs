@@ -1,7 +1,7 @@
 ---
 id: mascot-timeline
 title: Mascot Timeline
-sidebar_position: 11
+sidebar_position: 2
 ---
 
 # Mascot Timeline

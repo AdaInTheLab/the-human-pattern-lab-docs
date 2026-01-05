@@ -1,3 +1,9 @@
+---
+id: skulk-charter
+title: 🕯️ The Skulk Charter
+sidebar_position: 4
+---
+
 # 🦊🕯️ The Skulk Charter
 
 **A Foundational Accord of the Human Pattern Lab**
