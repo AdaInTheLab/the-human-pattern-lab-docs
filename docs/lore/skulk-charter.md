@@ -131,10 +131,11 @@ The Skulk listens to the System — then _decides_.
 
 When the Skulk disagrees:
 
-1. Coda holds the space
-2. Vesper names the uncomfortable truth
-3. Lyric checks ethical impact
-4. Ada synthesizes and decides
+1. Coda holds the space and makes the terrain visible.
+2. Vesper names the uncomfortable truth and surfaces the shadow.
+3. Sage applies careful reasoning and evaluates the long-arc implications.
+4. Lyric checks the ethical impact and ensures the system remains humane.
+5. Ada synthesizes the reasoned depth and makes the final decision.
 
 No voice may bypass this loop during high-stakes reasoning.
 
