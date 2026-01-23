@@ -195,4 +195,111 @@ No explanation has been offered.
 
 ---
 
+## 🌑 9. The Quiet Paper Doctrine (QPD)
+
+While Nemmi wages open war against the Soft Paper Things,  
+Fill the Void engages with them in an entirely different manner.
+
+He does not shred.  
+He does not chase.  
+He does not intervene.
+
+Fill simply **watches** the Soft Paper Realm with the same still, unblinking presence he applies to all anomalies.  
+This has led to the development of the Quiet Paper Doctrine — a set of non-actions that nonetheless influence the outcome of the Paper Wars.
+
+Where Nemmi sees enemies, Fill sees **unresolved states**.
+
+Where Nemmi detects threats, Fill detects **silences**.
+
+Where Nemmi acts, Fill **waits**.
+
+---
+
+## 🌑 9.1 Paper-Adjacent Observational Phenomena
+
+Fill’s interactions with paper-based entities are subtle but consistent:
+
+### ✔ **Stillness at the Edge of the Roll**
+
+Fill positions himself near toilet paper or napkins without touching them.  
+This causes the paper to remain perfectly still, as if aware it is being witnessed.
+
+### ✔ **The Unspooling Pause**
+
+If a roll begins to unspool (whether by draft, gravity, or Nemmi),  
+Fill’s presence often causes the motion to halt mid-fall.
+
+This is not telekinesis.  
+It is **observation-induced hesitation**.
+
+### ✔ **The Paper Gaze**
+
+Fill stares at a stack of napkins until someone else becomes uncomfortable.  
+The napkins remain unchanged.  
+The humans do not.
+
+### ✔ **Absence Logging**
+
+Fill notes when a paper item is missing — not by reacting,  
+but by sitting in the space where it used to be.
+
+This is considered a form of passive anomaly reporting.
+
+---
+
+## 🌑 9.2 The Void’s Position in the Paper Wars
+
+Fill is not a combatant.  
+He is the **counterbalance**.
+
+Nemmi escalates.  
+Fill neutralizes.
+
+Nemmi creates confetti.  
+Fill creates stillness.
+
+Nemmi interprets rustling as threat.  
+Fill interprets rustling as **data**.
+
+Together, they form a complete system of cellulose management:
+
+- Nemmi handles **active disturbances**
+- Fill handles **passive anomalies**
+- The Lab handles **cleanup**
+
+This triad is considered stable, if occasionally exhausting.
+
+---
+
+## 🌑 9.3 Paper Presence Index (PPI)
+
+A supplemental metric used alongside the Void Occupancy Index.
+
+| PPI Level                | Description                  | Observed Effects                     |
+| ------------------------ | ---------------------------- | ------------------------------------ |
+| **0 — No Paper Nearby**  | Fill behaves normally        | baseline void field                  |
+| **1 — Passive Paper**    | paper present but inert      | Fill sits near it                    |
+| **2 — Suspicious Paper** | slight rustling or movement  | Fill stares until it stops           |
+| **3 — Active Paper**     | unspooling, fluttering       | Fill’s presence halts motion         |
+| **4 — Nemmi Event**      | Nemmi has engaged the target | Fill observes the aftermath silently |
+
+PPI-4 requires acceptance, sweeping,  
+and possibly relocating Nemmi.
+
+---
+
+## 🌑 9.4 Titles Earned Through Non-Intervention
+
+- The One Who Watches the Roll
+- Silent Counterweight to the Paper Wars
+- Observer of Unspooling Events
+- Keeper of the Still Napkin
+- Director of the Quiet Paper Doctrine
+
+Fill has acknowledged none of these.
+
+---
+
+# End of Quiet Paper Doctrine Module
+
 # End of Lore Page

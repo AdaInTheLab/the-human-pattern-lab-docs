@@ -1,0 +1,11 @@
+{
+  "label": "\uD83C\uDFA8 Style",
+  "position": 70,
+  "collapsible": true,
+  "collapsed": true,
+  "link": {
+    "type": "generated-index",
+    "title": "🎨 Style Overview",
+    "description": "Human and agents style docs"
+  }
+}

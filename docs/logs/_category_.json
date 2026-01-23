@@ -1,7 +1,8 @@
 {
   "label": "📘 Logs",
-  "position": 50,
-  "collapsed": false,
+  "position": 90,
+  "collapsible": true,
+  "collapsed": true,
   "link": {
     "type": "generated-index",
     "title": "Department Logs",

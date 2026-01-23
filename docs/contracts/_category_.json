@@ -1,0 +1,11 @@
+{
+  "label": "⚖ Contracts",
+  "position": 60,
+  "collapsible": true,
+  "collapsed": true,
+  "link": {
+    "type": "generated-index",
+    "title": "⚖ Contracts Overview",
+    "description": "Agents docs"
+  }
+}

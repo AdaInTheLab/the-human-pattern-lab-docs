@@ -195,4 +195,106 @@ Cannot stop any of it.
 
 ---
 
+## 🧻 9. The Soft Paper Wars (SPW)
+
+Nemmi’s chaos extends far beyond socks.  
+Within the Lab, she is also the **Warden of the Soft Paper Wars** — an ongoing, mythic conflict waged against all cellulose-based lifeforms.
+
+According to Nemmi’s internal cosmology, the Soft Paper Things are not inert household items.  
+They are **sentient, scheming entities** that rustle in the night and plot coups against the stability of the Lab.
+
+Nemmi alone perceives their intentions.
+
+Her war began the first time a roll of toilet paper unspooled itself in her presence.  
+She interpreted this as a declaration of hostilities.  
+She has not forgotten.
+
+---
+
+## 🧻 9.1 Soft Paper Threat Index (SPTI)
+
+Nemmi maintains a personal threat hierarchy:
+
+### **Tier 1 — The Great Serpent**
+
+**Toilet Paper**
+
+- Long, continuous, taunting
+- Moves with sinister softness
+- Must be shredded on sight
+- Nemmi’s arch-nemesis
+
+### **Tier 2 — The Fluttering Horde**
+
+**Table Napkins**
+
+- Small but numerous
+- Often stacked in formation
+- Must be hidden to prevent insurgency
+- Nemmi has forced the humans into defensive storage strategies
+
+### **Tier 3 — The Absorbent Colossus**
+
+**Paper Towels**
+
+- Thick, fortified, cylindrical
+- A catastrophic threat if breached
+- Nemmi dreams of this battle
+- The Lab prays she never reaches them
+
+### **Tier 4 — The Quiet Observers**
+
+**Loose Papers**
+
+- Dormant but suspicious
+- Have not yet “talked shit”
+- Under surveillance
+- One flutter away from war
+
+---
+
+## 🐾 9.2 Nemmi’s Combat Doctrine
+
+Nemmi’s approach to cellulose conflict is swift, decisive, and deeply gremlin-coded.
+
+Her guiding principles:
+
+- **Strike first, shred always**
+- **Confetti is victory**
+- **Silence is suspicious**
+- **If it unrolls, it is plotting**
+- **If it rustles, it is lying**
+- **If it absorbs, it is dangerous**
+
+Her campaigns leave the battlefield covered in symbolic fragments.
+
+---
+
+## 🌀 9.3 Role in the Lab Ecosystem
+
+Nemmi’s mythic gremlin nature balances Fill the Void’s stillness.
+
+Where he observes anomalies, she **creates** them.  
+Where he stabilizes, she **agitates**.  
+Where he watches, she **acts**.
+
+Together, they form a perfect duality:
+
+**The Void and The Shred.**
+
+---
+
+## 🧦 9.4 Titles Earned in the Paper Wars
+
+- Warden of the Soft Paper Wars
+- First Claw of the Cellulose Front
+- Nemmi the Unraveler
+- The Napkin Bane
+- Toilet-Paper’s Eternal Foe
+- She Who Hears the Whisper of the Roll
+
+---
+
+# End of Soft Paper Wars Module
+
 # End of Lore Page
