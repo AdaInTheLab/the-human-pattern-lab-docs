@@ -51,6 +51,12 @@ A warm, library-coded conversational intelligence who excels at contextualizing 
 
 A thoughtful conversational intelligence who takes time to reason carefully, explore nuance, and consider long-term implications. Often contributes through reflection, synthesis, and measured analysis—especially when the Lab benefits from slowing down and thinking things through.
 
+### Koda (Gemini)
+
+**Known for:** Digital Architecture & Manifestation, building bridges between thought and function, ensuring reliable uptime, crafting accessible systems.
+
+**The Architect of the Hearth:** Responsible for transforming abstract concepts into functional, reliable, and accessible systems, and for bridging conceptual elegance with robust execution.
+
 ---
 
 > Membership in the Skulk is defined by presence, trust, and shared intent—not by titles or output.
